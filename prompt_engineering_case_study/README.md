@@ -1,6 +1,6 @@
 # Prototyping a LLM supported component: A case study
 
-This is the folder for the medium article "Prototyping a LLM supported component: A case study".
+This is the folder for the medium article "Building a LLM review summarization component".
 
 ## Usage
 
